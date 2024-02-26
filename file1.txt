@@ -3,4 +3,4 @@ Hello World
 New changes!!!
 Hello universe!
 hello friends!
-Hello everyone!
+hello all
