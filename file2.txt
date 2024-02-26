@@ -1,0 +1,2 @@
+New file2 create for new branch
+Some text
