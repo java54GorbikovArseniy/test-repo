@@ -1,3 +1,4 @@
 New file2 create for new branch
+last change second line 
 new text in second line
 Some text
